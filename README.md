@@ -67,3 +67,7 @@ Flight ticket prices can change frequently and seem unpredictable. This project 
 
 ## 📁 File Structure
 
+## 🔗 Author
+
+- **Sivamaran K**
+- GitHub: [https://github.com/SivamaranK](https://github.com/SivamaranK)
